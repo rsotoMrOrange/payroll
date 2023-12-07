@@ -1,8 +1,7 @@
-package com.example.payroll.api.controller;
+package com.example.payroll.api.controller.employee;
 
 import com.example.payroll.model.employee.Employee;
 import com.example.payroll.model.employee.EmployeeModelAssembler;
-import com.example.payroll.api.EmployeeNotFoundException;
 import com.example.payroll.repository.EmployeeRepository;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;

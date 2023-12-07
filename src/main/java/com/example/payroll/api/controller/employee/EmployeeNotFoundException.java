@@ -1,4 +1,4 @@
-package com.example.payroll.api;
+package com.example.payroll.api.controller.employee;
 
 public class EmployeeNotFoundException extends RuntimeException {
     public EmployeeNotFoundException(Long id) {
