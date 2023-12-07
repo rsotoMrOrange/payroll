@@ -1,7 +1,6 @@
 package com.example.payroll.model.employee;
 
-import com.example.payroll.api.controller.EmployeeController;
-import com.example.payroll.model.employee.Employee;
+import com.example.payroll.api.controller.employee.EmployeeController;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;
